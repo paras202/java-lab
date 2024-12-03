@@ -1,0 +1,2 @@
+Hello, this is an example of I/O Streams in Java.
+This is an additional line written using BufferedWriter.
